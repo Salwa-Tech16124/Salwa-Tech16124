@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="assets/avatar.png" align="center" alt="Avatar" style="border-radius:50%;" />
+ <img width="150px" src="assets/avatar.png" align="center" alt="Avatar" style="border-radius:50%;" />
  <h2 align="center">Salwa Kazmi</h2>
 </p>
 
@@ -11,11 +11,13 @@
   <a href="https://github.com/Salwa-Tech16124?tab=repositories">Repositories</a> | <a href="https://github.com/Salwa-Tech16124?tab=projects">Projects</a>
 </p>
 
-Hi! I'm **Salwa Kazmi**, a passionate Software Engineer and QA Automation Specialist. I specialize in building enterprise-grade tools, AI agents, and robust full-stack architectures.
+Hi there! 👋 I'm **Salwa Kazmi**, an MCA student and passionate Software Developer exploring the frontiers of **Python, AI/ML, and Web Development**. 
 
-You can find my published projects on GitHub: [@Salwa-Tech16124](https://github.com/Salwa-Tech16124).
+I specialize in building intelligent enterprise-grade tools, custom AI agents, and robust full-stack architectures. I'm driven by a love for learning, creating impactful tech, and turning complex problems into elegant solutions every single day. 🌟
 
-When I'm not in front of a screen writing code, I'm constantly learning and building modern applications that make an impact.
+You can explore my open-source projects on GitHub: [@Salwa-Tech16124](https://github.com/Salwa-Tech16124).
+
+When I'm not in front of a screen writing code, I'm constantly learning new frameworks and expanding my knowledge base!
 
 <p align="right">
   <a href="https://github.com/Salwa-Tech16124">
@@ -25,8 +27,8 @@ When I'm not in front of a screen writing code, I'm constantly learning and buil
 
 #### ⚡️ A Few Quick Facts
 
-- 🎓 Computer Science background specializing in Software Engineering & QA.
-- 💻 Building enterprise SaaS applications and custom AI assistants.
+- 🎓 MCA student specializing in Computer Science, AI, and Software Engineering.
+- 💻 Building enterprise SaaS applications and custom AI-powered assistants.
 - 🤖 Developer of TestPilot AI, VIVA AI-Powered Job Portal, and LunaFlow AI.
 - ⚡ Programmer (_Python_ / _React_ / _Node.js_ / _TypeScript_ / _Java_).
 - 🚀 Passionate about Clean Code, UI/UX, and process automation.
