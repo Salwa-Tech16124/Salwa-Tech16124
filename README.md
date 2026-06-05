@@ -1,18 +1,44 @@
-# 💫 About Me:
-✨ Introduction<br><br>Hi there! I'm a Frontend and Quality analyst person with a growing passion for AI/ML, focused on building intelligent and user-friendly applications and testing them. I enjoy combining clean UI/UX with smart backend logic to create impactful digital experiences.<br><br>💫 About Me:<br><br>💻 I’m currently working on<br>→ AI-powered Job Portal (Frontend + AI integration)<br><br>🤝 I’m looking to collaborate on<br>→ Frontend projects (React / Next.js) and AI/ML-based applications<br><br>🆘 I’m looking for help with<br>→ Advanced ML model integration in web apps & real-time AI features<br><br>🌱 I’m currently learning<br>→ AI/ML fundamentals, model deployment, and improving frontend architecture<br><br>💬 Ask me about<br>→ Frontend Development, React, UI/UX, or beginner-friendly AI projects and test there api by using postman and Jira for bug tracking<br><br>⚡ Fun fact<br>→ I love turning complex ideas into simple, clean, and interactive user interfaces
+<p align="center">
+ <img width="100px" src="assets/avatar.png" align="center" alt="Avatar" style="border-radius:50%;" />
+ <h2 align="center">Salwa Kazmi</h2>
+</p>
 
+<p align="center">
+  <a href="https://github.com/Salwa-Tech16124"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <img alt="Visitors" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSalwa-Tech16124&labelColor=%23152136&countColor=%23ff8a65" />
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/salwa3622) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salwa-kazmi-731874248) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/salwakazmi1505) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Salwa-Kazmi-6) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@kazmi_salwa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salwakazmi1505@gmail.com) 
+<p align="center">
+  <a href="https://github.com/Salwa-Tech16124?tab=repositories">Repositories</a> | <a href="https://github.com/Salwa-Tech16124?tab=projects">Projects</a>
+</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Salwa-Tech16124&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Salwa-Tech16124&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Salwa-Tech16124&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Hi! I'm **Salwa Kazmi**, a passionate Software Engineer and QA Automation Specialist. I specialize in building enterprise-grade tools, AI agents, and robust full-stack architectures.
 
----
-[![](https://komarev.com/ghpvc/?username=Salwa-Tech16124&icon=0&color=0)](https://visitcount.itsvg.in)
+You can find my published projects on GitHub: [@Salwa-Tech16124](https://github.com/Salwa-Tech16124).
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+When I'm not in front of a screen writing code, I'm constantly learning and building modern applications that make an impact.
+
+<p align="right">
+  <a href="https://github.com/Salwa-Tech16124">
+      <img width="210px" src="assets/character.png" align="right" alt="Character Illustration">
+  </a>
+</p>
+
+#### ⚡️ A Few Quick Facts
+
+- 🎓 Computer Science background specializing in Software Engineering & QA.
+- 💻 Building enterprise SaaS applications and custom AI assistants.
+- 🤖 Developer of TestPilot AI, VIVA AI-Powered Job Portal, and LunaFlow AI.
+- ⚡ Programmer (_Python_ / _React_ / _Node.js_ / _TypeScript_ / _Java_).
+- 🚀 Passionate about Clean Code, UI/UX, and process automation.
+- 📫 Feel free to explore my repositories below!
+
+#### 📋 Recent Dev Projects
+
+| Project Name <img width="180px"> | Category <img width="120px"> |
+| :----------------------------------------------------------- | ------------ |
+| [TestPilot AI](https://github.com/Salwa-Tech16124/TestPilot-AI) | QA Automation Platform |
+| [VIVA Job Portal](https://github.com/Salwa-Tech16124/VIVA-P) | Full-Stack AI Platform |
+| [LunaFlow AI](https://github.com/Salwa-Tech16124/LunaFlow-AI) | Health & Wellness SaaS |
+| [COCO X Assistant](https://github.com/Salwa-Tech16124/coco-voice-assistant) | Desktop AI Assistant |
+| [SmartDoc Assistant](https://github.com/Salwa-Tech16124/SmartDocAI) | PDF Intelligence App |
+| [ATSense AI](https://github.com/Salwa-Tech16124/SmartATS-AI) | Resume Analyzer |
