@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="assets/banner.png" alt="Tech Girl Banner" width="100%" />
+</p>
+
+<p align="center">
  <img width="150px" src="assets/avatar.png" align="center" alt="Avatar" style="border-radius:50%;" />
  <h2 align="center">Salwa Kazmi</h2>
 </p>
