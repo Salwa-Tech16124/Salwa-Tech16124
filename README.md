@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/tech_girl_banner.jpg" alt="Tech Girl Banner" width="600px" />
+  <img src="assets/tech_girl_banner.jpg" alt="Tech Girl Banner" width="400px" />
 </p>
 
 <p align="center">
