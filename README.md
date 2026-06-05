@@ -11,13 +11,13 @@
   <a href="https://github.com/Salwa-Tech16124?tab=repositories">Repositories</a> | <a href="https://github.com/Salwa-Tech16124?tab=projects">Projects</a>
 </p>
 
-Hi there! 👋 I'm **Salwa Kazmi**, an MCA student and passionate Software Developer exploring the frontiers of **Python, AI/ML, and Web Development**. 
+Hi there! 👋 I'm **Salwa Kazmi**, an MCA student and passionate **Software Developer & Quality Analyst** bridging the gap between building robust applications and ensuring flawless user experiences. 
 
-I specialize in building intelligent enterprise-grade tools, custom AI agents, and robust full-stack architectures. I'm driven by a love for learning, creating impactful tech, and turning complex problems into elegant solutions every single day. 🌟
+I specialize in **Python, AI/ML, and Web Development**, combining my programming expertise with rigorous QA automation principles. Whether I'm building intelligent enterprise tools, custom AI agents, or writing automated test suites, I'm driven by a love for creating impactful, bug-free technology. 🌟
 
 You can explore my open-source projects on GitHub: [@Salwa-Tech16124](https://github.com/Salwa-Tech16124).
 
-When I'm not in front of a screen writing code, I'm constantly learning new frameworks and expanding my knowledge base!
+When I'm not in front of a screen writing code or auditing layouts, I'm constantly learning new frameworks and expanding my knowledge base!
 
 <p align="right">
   <a href="https://github.com/Salwa-Tech16124">
